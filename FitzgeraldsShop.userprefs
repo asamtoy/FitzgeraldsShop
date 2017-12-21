@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{12BA8337-D373-48D1-BE97-3275D61E5AE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitzgeraldsShop/Program.cs">
+    <Files>
+      <File FileName="FitzgeraldsShop/Program.cs" Line="128" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FitzgeraldsShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/bin/Debug/netcoreapp2.0/FitzgeraldsShop.deps.json
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/bin/Debug/netcoreapp2.0/FitzgeraldsShop.runtimeconfig.json
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/bin/Debug/netcoreapp2.0/FitzgeraldsShop.runtimeconfig.dev.json
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/bin/Debug/netcoreapp2.0/FitzgeraldsShop.dll
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/bin/Debug/netcoreapp2.0/FitzgeraldsShop.pdb
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/obj/Debug/netcoreapp2.0/FitzgeraldsShop.csprojResolveAssemblyReference.cache
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/obj/Debug/netcoreapp2.0/FitzgeraldsShop.csproj.CoreCompileInputs.cache
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/obj/Debug/netcoreapp2.0/FitzgeraldsShop.AssemblyInfoInputs.cache
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/obj/Debug/netcoreapp2.0/FitzgeraldsShop.AssemblyInfo.cs
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/obj/Debug/netcoreapp2.0/FitzgeraldsShop.dll
+/Users/andrewsamtoy/Projects/FitzgeraldsShop/FitzgeraldsShop/obj/Debug/netcoreapp2.0/FitzgeraldsShop.pdb
